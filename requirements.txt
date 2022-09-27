@@ -1,0 +1,10 @@
+catboost==1.0.5
+joblib==1.1.0
+keras_tuner==1.1.2
+lightgbm==3.3.2
+matplotlib==3.5.1
+numpy==1.22.3
+pandas==1.4.2
+scikit_learn==1.1.2
+tensorflow==2.8.0
+xgboost==1.6.1

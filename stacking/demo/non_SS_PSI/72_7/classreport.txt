@@ -1,0 +1,26 @@
+Dtestset  
+
+[[12126  1321]
+ [ 1221   527]]
+              precision    recall  f1-score   support
+
+           0      0.909     0.902     0.905     13447
+           1      0.285     0.301     0.293      1748
+
+    accuracy                          0.833     15195
+   macro avg      0.597     0.602     0.599     15195
+weighted avg      0.837     0.833     0.835     15195
+
+Dtestset  
+
+[[12126  1321]
+ [ 1221   527]]
+              precision    recall  f1-score   support
+
+           0      0.909     0.902     0.905     13447
+           1      0.285     0.301     0.293      1748
+
+    accuracy                          0.833     15195
+   macro avg      0.597     0.602     0.599     15195
+weighted avg      0.837     0.833     0.835     15195
+
