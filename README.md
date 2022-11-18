@@ -1,5 +1,6 @@
 # SENSDeep
- Stacking (Stacked Generalization) Ensemble Deep Learning Method (SENSDeep) https://doi.org/10.1007/s12539-022-00543-x <br />
+ Stacking (Stacked Generalization) Ensemble Deep Learning Method (SENSDeep) <br /> 
+ https://doi.org/10.1007/s12539-022-00543-x <br />
  <br />
  <img src="https://user-images.githubusercontent.com/26387255/189489623-d10a2c44-4966-4303-bc94-2998ecdbe226.png" width=60% height=60%>
 - Python 3.8 has been used when training and testing. The package requirements are listed in the requirements.txt file. The gpu versions of the relevant packages may need to be installed in order to run on the GPU.
